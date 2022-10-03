@@ -22,3 +22,5 @@ You can search specifically search for these parameters!
 - Ratings
 - Location
 - Type of Service
+
+In the *server side* of the code we can read, update, delete and display the contents of the database in the backend using a neat menu-driven system to produce the data for the client to use!
